@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\tankbom.png</Source>
+      <Name>Images\tankbom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\bin\x86\Debug\Content\Images\tankbom.xnb</Output>
+      <Time>2021-12-15T09:49:14.0430004-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Floorbom.png</Source>
+      <Name>Images\Floorbom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\bin\x86\Debug\Content\Images\Floorbom.xnb</Output>
+      <Time>2021-12-15T09:49:16.9393565-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\buracoso.png</Source>
+      <Name>Images\buracoso</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\bin\x86\Debug\Content\Images\buracoso.xnb</Output>
+      <Time>2021-12-15T10:00:25.8677994-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\pedraboa.png</Source>
+      <Name>Images\pedraboa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\bin\x86\Debug\Content\Images\pedraboa.xnb</Output>
+      <Time>2021-12-15T11:52:19.1518048-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tiro.png</Source>
+      <Name>Images\tiro</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\bin\x86\Debug\Content\Images\tiro.xnb</Output>
+      <Time>2021-12-15T13:29:03.1750481-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\MoonpatrolContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\MoonpatrolContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2021-06-30T09:29:05.9008952-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

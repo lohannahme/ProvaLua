@@ -1,0 +1,17 @@
+--[[ https://www.lua.org/portugues.html ]]--
+
+function Update()
+
+if obstacle == "stone" then
+	if dist < 400 then
+		Fire()
+	end
+end
+
+if obstacle == "hole" then
+	if dist < 200 then
+		Jump()
+	end
+end
+
+end

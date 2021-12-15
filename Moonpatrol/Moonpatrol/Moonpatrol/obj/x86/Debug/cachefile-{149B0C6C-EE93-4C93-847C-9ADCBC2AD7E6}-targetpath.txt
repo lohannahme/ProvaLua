@@ -1,0 +1,5 @@
+Content\Images\tankbom.xnb
+Content\Images\Floorbom.xnb
+Content\Images\buracoso.xnb
+Content\Images\pedraboa.xnb
+Content\Images\tiro.xnb

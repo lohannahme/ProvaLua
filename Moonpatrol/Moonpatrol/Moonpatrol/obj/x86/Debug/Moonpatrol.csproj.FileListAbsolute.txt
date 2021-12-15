@@ -1,0 +1,12 @@
+C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\bin\x86\Debug\Content\Images\tankbom.xnb
+C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\bin\x86\Debug\Content\Images\Floorbom.xnb
+C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\bin\x86\Debug\Content\Images\buracoso.xnb
+C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\bin\x86\Debug\Content\Images\pedraboa.xnb
+C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\bin\x86\Debug\Content\Images\tiro.xnb
+C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\bin\x86\Debug\Moonpatrol.exe
+C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\bin\x86\Debug\Moonpatrol.pdb
+C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\bin\x86\Debug\KopiLua.dll
+C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\bin\x86\Debug\NLua.dll
+C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\obj\x86\Debug\Moonpatrol.exe
+C:\Users\hanna\onedrive\documentos\visual studio 2010\Projects\Moonpatrol\Moonpatrol\Moonpatrol\obj\x86\Debug\Moonpatrol.pdb
